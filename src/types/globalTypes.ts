@@ -6,5 +6,5 @@ export interface IProduct {
   features: string[];
   status: boolean;
   rating: number;
-  quantity?: number;
+  quantity?: number; 
 }
